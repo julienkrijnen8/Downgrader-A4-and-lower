@@ -13,7 +13,7 @@ And you need to rename the geekgrade ipsw to downgrade , and paste the GEEKGRADE
 6. boot tether (make sure the normal apple  ipsw (that must be in your root folder (C:/) and redsn0w as well )
 7. setup your device .
 8. (Only for Jailbreak) locate your ipsw , select jb , install cydia, make sure you're in DFU mode , jailbreak ,and just boot after .
-9. every time you reboot or bettery die's or your cat eat it up , you need to tether boot it eith the iphone 4 .bat 
+9. every time you reboot or bettery die's or your cat eat it up , you need to tether boot it with the iphone 4 .bat (rename or edit it in order it for work , example : if you've downgraded on your ipod touch 4g to 5.1.1 ,  rename it to : iPod4,1_5.1.1_9B206_Restorein the iphone 4 .bat (will change in the full version)
 10 Thanks :) for trying out the beta 7 (it says beta 3 but its b7 ignore that please )
 
 Credits : LazyDevTeam , Iphoneguy1101 for help , hacks4live for making this alive .
