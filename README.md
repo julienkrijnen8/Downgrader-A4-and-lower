@@ -8,12 +8,20 @@ And you need to rename the geekgrade ipsw to downgrade , and paste the GEEKGRADE
 1. Run cmd and locate the libmobiledevicerestore folder 
 (cd location )
 2. find your udid (unique shit) with redsn0w
-4. idevicerestore -e -u your udid -c downgrade.ipsw
+4. idevicerestore -e -u your udid -c downgrade.ipsw (put your geekgrade ipsw in the folder and name it as "downgrade" .ipsw
+
+
 5.relax/chill 
-6. boot tether (make sure the normal 5.1.1 ipsw is in your root folder and redsn0w as well )
+6. boot tether (make sure the normal apple  ipsw (that must be in your root folder (C:/) and redsn0w as well )
 7. setup your device .
 8. (if you don't wanna hacktivate/jailbreak skip to part 10) locate your ipsw , select jb , cydia, make sure you're in DFU mode , and just boot after .
-9. every time you reboot or bettery die's or your cat eat it up , you need to tether boot it eith the iphone 4 .bat 
-10 Thanks :)
 
-Credits : LazyDevTeam , Iphoneguy1101 for help , hacks4live for making this alive
+
+9. every time you reboot or bettery die's or your cat eat it up , you need to tether boot it eith the iphone 4 .bat 
+
+
+10 Thanks :) for trying out the beta 7 (it says beta 3 but its b7 ignore that please )
+
+Credits : LazyDevTeam , Iphoneguy1101 for help , hacks4live for making this alive .
+
+Testers : @Hack4live @Juliendev8 @iphoneguy1101
