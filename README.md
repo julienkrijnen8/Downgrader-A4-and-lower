@@ -15,3 +15,4 @@ Instuctions :
 10 Thanks :) for trying out the beta 7 (it says beta 3 but its b7 ignore that please ).
 Credits : LazyDevTeam , Iphoneguy1101 for help , hacks4live for making this alive .
 Testers : @Hack4live @Juliendev8 @iphoneguy1101.
+more / full : https://pastebin.com/uUAwdkyN
