@@ -19,3 +19,4 @@ And you need to rename the geekgrade ipsw to downgrade , and paste the GEEKGRADE
 Credits : LazyDevTeam , Iphoneguy1101 for help , hacks4live for making this alive .
 
 Testers : @Hack4live @Juliendev8 @iphoneguy1101
+g
